@@ -1,21 +1,28 @@
-# Benhao Lu's Game Projects
+# Benhao Lu's Game Project
 
-## My Projects
+## PetEngine3D
+### [Code Sample On Github](https://github.com/lbh930/3d_pet_engine) 
+Sep. 2024 - Present
+Pet Engine 3D is a lightweight, real-time rendering engine designed for visualization, customization, and interaction with 3D objects on the desktop. 
+Think of it as a 3D-centric version of Wallpaper Engine—transforming your screen into a dynamic space for immersive models and environments, beyond just animated 2D wallpapers.
 
-### 1. Lu's Roulette
-Aug. 2024 - Current  
+## Lu's Roulette 
+### [Code Sample On Github](https://github.com/lbh930/LuRoulette) 
+Aug. 2024 - Present  
 A 1v1 networked party game. The server is built as a backend with Go, and the game client is built with C# and Unity.  
 I am currently working on the game's programming and art solely.
 
-
-### 2. [Traveler's Game](https://store.steampowered.com/app/2058850/)
+## Traveler's Game 
+### [Steam](https://store.steampowered.com/app/2058850/) 
+### [Code Sample On Github]() 
 Jun. 2021 - Jun. 2023  
 A 3D strategy and story-driven game. Built with C# and Unity, offering over 10 hours of immersive gameplay.   
 I led the team as the core programmer and team leader.  
 ![Banner](https://github.com/lbh930/Portfolio/blob/main/tg_header.jpg)
 ![Screenshot](https://github.com/lbh930/Portfolio/blob/main/traveler's%20game%20screenshot.jpg)
 
-### 3. [Indie Dream](https://store.steampowered.com/app/612060/)
+## Indie Dream 
+### [Steam](https://store.steampowered.com/app/612060/) 
 Aug. 2017 - July. 2019  
 A 2D pixel art story game about the journey of an indie developer. Built with C# and Unity.  
 I handled all aspects of programming and art.  
