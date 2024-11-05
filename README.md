@@ -2,7 +2,7 @@
 
 ## Pet Engine 3D
 ### [Code Sample](https://github.com/lbh930/3d_pet_engine) 
-Sep. 2024 - Present 
+Sep. 2024 - Present  
 Pet Engine 3D is a lightweight, real-time rendering engine designed for visualization, customization, and interaction with 3D objects on the desktop. Powered by OpenGL. 
 Think of it as a 3D-centric version of Wallpaper Engine—transforming your screen into a dynamic space for immersive models and environments, beyond just animated 2D wallpapers. 
 I am currently working on this project solely.
